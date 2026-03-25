@@ -4,6 +4,6 @@ export const config = {
   propertyName: 'La Perla del Mare',
   location: 'Cesenatico, Emilia-Romagna',
   langIT: 'https://laperla-seven.vercel.app/',
-  langEN: 'https://la-perla-cesenatico-en.vercel.app/',
+  langEN: 'https://laperla-en.vercel.app/',
   currentLang: 'EN',
 };
