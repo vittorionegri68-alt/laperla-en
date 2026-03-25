@@ -9,10 +9,9 @@ const C = {
   shadowMd:"0 4px 6px rgba(0,0,0,0.07), 0 2px 4px rgba(0,0,0,0.06)",
   shadowLg:"0 10px 15px rgba(0,0,0,0.1), 0 4px 6px rgba(0,0,0,0.05)",
 };
-
 const HERO_1 = "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1400&q=80";
-const HERO_2 = "https://images.unsplash.com/photo-1468276898467-8f7de5abe7c3?w=1400&q=80";
-const ROOMS = [
+const HERO_2 = "https://images.unsplash.com/photo-1636270932469-8653a8e8c47f?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+const ROOMS  = [
   "/Bagno1.jpg",
   "/Bagno2.jpg",
   "/Bagno3.jpg",
@@ -25,10 +24,10 @@ const ROOMS = [
   "/Soggiorno.jpg",
 ];
 const LIFESTYLE = [
-  "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?w=800&q=75",
-  "https://images.unsplash.com/photo-1471623432079-b009d30b6729?w=800&q=75",
-  "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=800&q=75",
-  "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&q=75",
+  "https://images.unsplash.com/photo-1641750449334-610a262d9091?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1628645339131-0c39c7527856?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://plus.unsplash.com/premium_photo-1676496046182-356a6a0ed002?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1633241105013-c7a4b86eeb35?q=80&w=1185&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 ];
 
 function useReveal(threshold = 0.1) {
