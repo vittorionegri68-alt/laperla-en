@@ -13,12 +13,16 @@ const C = {
 const HERO_1 = "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1400&q=80";
 const HERO_2 = "https://images.unsplash.com/photo-1468276898467-8f7de5abe7c3?w=1400&q=80";
 const ROOMS = [
-  "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=75",
-  "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800&q=75",
-  "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=75",
-  "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=800&q=75",
-  "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=75",
-  "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=75",
+  "/Bagno1.jpg",
+  "/Bagno2.jpg",
+  "/Bagno3.jpg",
+  "/Balcone1.jpg",
+  "/Box1.jpg",
+  "/Cucina.jpg",
+  "/Esterno.jpg",
+  "/Letto1.jpg",
+  "/Letto2.jpg",
+  "/Soggiorno.jpg",
 ];
 const LIFESTYLE = [
   "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?w=800&q=75",
