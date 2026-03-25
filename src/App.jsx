@@ -18,7 +18,7 @@ const ROOMS  = [
   "/Balcone1.jpg",
   "/Box1.jpg",
   "/Cucina.jpg",
-  "/Esterno.jpg",
+  "/Esterno1.jpg",
   "/Letto1.jpg",
   "/Letto2.jpg",
   "/Soggiorno.jpg",
