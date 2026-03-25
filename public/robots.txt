@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://la-perla-cesenatico-en.vercel.app/sitemap.xml
